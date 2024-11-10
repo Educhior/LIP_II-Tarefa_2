@@ -1,3 +1,7 @@
+# LINGUAGEM-DE-PROGRAMACO II - Tarefa 2
+
+Aluno: Eduardo de Souza Belchior
+
 ## 5.2 - Qual design de projeto é melhor? Herança ou composição? Justifique a sua resposta.
 
 A composição. Porque promove um design mais flexível e modular. Na composição, uma classe contém objetos de outras classes (relacionamento "tem um"), o que permite maior reutilização e menos acoplamento entre as classes.
